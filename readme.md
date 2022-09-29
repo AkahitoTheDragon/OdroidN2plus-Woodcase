@@ -14,9 +14,9 @@ Feel free to make your own little woodcase for your Odroid!
 **In theory, the case also fits the Odroid N2, but I can't test this! You are welcome to try out whether the case fits, as far as I know the circuit boards and the cooler are identical.**
 
 ## Table of Contents
-1. [File Overview](#File Overview)
-2. [Example2](#Things you need)
-3. [](#Step 1: Cut out the patterns)
+1. [File Overview](#File-Overview)
+2. [Example2](#Things-you-need)
+3. [](#Step-1:-Cut-out-the-patterns)
 
 # Table of Contents
 1. [Example](#example)
