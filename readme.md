@@ -16,8 +16,8 @@ Feel free to make your own little woodcase for your Odroid!
 ## Table of Contents
 1. [File Overview](#File-Overview)
 2. [Things you need](#Things-you-need)
-3. [Cut out the patterns](Cut-out-the-patterns)
-4. [Preparing the touch sensor](Preparing-the-touch-sensor)
+3. [Cut out the patterns](#Cut-out-the-patterns)
+4. [Preparing the touch sensor](#Preparing-the-touch-sensor)
 5. [Configure Touchbutton on Odroid](#Configure-Touchbutton-on-Odroid)
 6. [assemble the woodcase](#assemble-the-woodcase)
 7. [Disassembling the case](#Disassembling-the-case)
