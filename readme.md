@@ -16,11 +16,11 @@ Feel free to make your own little woodcase for your Odroid!
 ## Table of Contents
 1. [File Overview](#File-Overview)
 2. [Things you need](#Things-you-need)
-3. [Step 1: Cut out the patterns](#Step-1:-Cut-out-the-patterns)
-4. [Step 2: Preparing the touch sensor](#File-Overview)
-5. [Step 3: Configure Touchbutton on Odroid](#Things-you-need)
-6. [Step 4: assemble the woodcase](#Step-1:-Cut-out-the-patterns)
-7. [Disassembling the case](#File-Overview)
+3. [Cut out the patterns](Cut-out-the-patterns)
+4. [Preparing the touch sensor](Preparing-the-touch-sensor)
+5. [Configure Touchbutton on Odroid](#Configure-Touchbutton-on-Odroid)
+6. [assemble the woodcase](#assemble-the-woodcase)
+7. [Disassembling the case](#Disassembling-the-case)
 
 
 
@@ -48,7 +48,7 @@ Feel free to make your own little woodcase for your Odroid!
 - cable to connect the sensor
 - glue to attach the touch sensor
 
-### Step 1: Cut out the patterns
+### Cut out the patterns
 Use a Lasercutter to cut out the faces. I used a EpilogLaser Fusion M2 with LaserDraw as Software.
 I've created a cut pattern for LaserDraw with labeling (.CDL Files). Alternatively, i've uploaded the .dxf files of all faces individually, these are without labeling.
 I use 3mm MDF plates for the case and 2mm Plexiglas for the lid. feel free to use any material, only the strength of 3mm/2mm is important!
@@ -56,7 +56,7 @@ After cutting it should look like this:
 
 ![IMG_20220929_161642](https://user-images.githubusercontent.com/74838190/193081667-47efaff8-36b8-4cd6-a178-0c77bc36ff02.jpg)
 
-### Step 2: Preparing the touch sensor
+### Preparing the touch sensor
 I use a TTP223 touch sensor as a power button, which is attached in the front behind the power symbol. You can get them for little money, for example. at amazon, ebay and co.
 Solder bridge A must be connected so that the sensor switches Active Low, which is what the Odroid needs to power up/down. You should also remove the small LED which is not needed.
 
@@ -87,7 +87,7 @@ In the end it should look like this:
 
 ![IMG_20220929_172106](https://user-images.githubusercontent.com/74838190/193094098-d194d03d-fbb1-4b43-9efa-fc429bb71d75.jpg)
 
-### Step 3: Configure Touchbutton on Odroid
+### Configure Touchbutton on Odroid
 
 I assume that you already have an operating system installed on your Odroid. I downloaded the Android self-installation image from [OdroidWiki](https://wiki.odroid.com/odroid-n2/os_images/android/android#tab__bit_android) and installed it on my eMMC.
 
