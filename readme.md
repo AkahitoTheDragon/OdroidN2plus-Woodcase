@@ -11,6 +11,7 @@ I run an Android on the Odroid as Chromecast replacement and Multimediacenter.
 I created the case based on a 3D model in Fusion360 and saved the cutting patterns as DXF files.
 Feel free to make your own little woodcase for your Odroid!
 
+**In theory, the case also fits the Odroid N2, but I can't test this! You are welcome to try out whether the case fits, as far as I know the circuit boards and the cooler are identical.**
 
 Inhaltsverzeichnis!!!!!!!!
 
@@ -22,13 +23,16 @@ Inhaltsverzeichnis!!!!!!!!
 
 ## How to build the Woodencase
 
-###Things you need
+### Things you need
 
 **tools**
+
 - Lasercutter
 - soldering iron
 - electric craft tools like Wire cutters, stripping pliers, etc
+- 
 **material**
+
 - TTP223 capacitive touch sensor (available on Ebay, Amazon, etc.)
 - Around 120x120mm MDF 3mm or another wooden material
 - Around 110x110mm plexiglass 2mm or another material
@@ -66,7 +70,7 @@ connect the touch sensor as follows:
 |9    |GND    |
 |11   |Signal |
 
-***See also: [Odroid N2 Pinout](https://wiki.odroid.com/odroid-n2/hardware/expansion_connectors)***
+*See also: [Odroid N2 Pinout](https://wiki.odroid.com/odroid-n2/hardware/expansion_connectors)*
 
 ![IMG_20220929_163810](https://user-images.githubusercontent.com/74838190/193089502-703b6e89-e271-4079-9a35-ce9dbf6e47dc.jpg)
 
@@ -103,3 +107,7 @@ The parts are measured very precisely, you need to use some force to push in the
 ![IMG_20220929_173057](https://user-images.githubusercontent.com/74838190/193101312-28208943-8a35-448a-90a6-3764d716066a.jpg)
 
 Here we go, the wooden case is finished!
+
+## disassembling the case
+The case is only sticked together and can theoretically be disassembled again, you have to be very careful because the parts are so tight together that something can quickly break off!
+Make sure you don't have to get to the RTC battery or the eMMC memory that often.
