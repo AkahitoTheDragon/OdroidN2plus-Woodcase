@@ -1,7 +1,7 @@
 
 # Odroid N2+ Woodcase
 
-![IMG_20220929_173057](https://user-images.githubusercontent.com/74838190/193081744-4a20eb48-53ef-48c4-8d56-eca315350ece.jpg)
+![IMG_20220929_203104](https://user-images.githubusercontent.com/74838190/193115848-ef9380e4-dbec-4126-ae0e-702a6076e8ff.jpg)
 
 A small wooden case suitable for the Odroid N2+ from Hardkernel.
 There are many cases online that you can buy or 3D print for the N2+, but I didn't like any of these.
