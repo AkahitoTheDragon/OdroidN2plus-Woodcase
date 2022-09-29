@@ -18,6 +18,15 @@ Feel free to make your own little woodcase for your Odroid!
 2. [Example2](#Things you need)
 3. [](#Step 1: Cut out the patterns)
 
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+## Example
+## Example2
+## Third Example
+
 
 
 ## File Overview
