@@ -23,6 +23,7 @@ Feel free to make your own little woodcase for your Odroid!
 5. [Configure Touchbutton on Odroid](#Configure-Touchbutton-on-Odroid)
 6. [assemble the woodcase](#assemble-the-woodcase)
 7. [Disassembling the case](#Disassembling-the-case)
+8. [Links and References](#Links-and-References)
 
 
 
@@ -122,3 +123,9 @@ Here we go, the wooden case is finished!
 ## Disassembling the case
 The case is only sticked together and can theoretically be disassembled again, you have to be very careful because the parts are so tight together that something can quickly break off!
 Make sure you don't have to get to the RTC battery or the eMMC memory that often.
+
+## Links and References
+- [OdroidWiki for N2/N2+]([https://www.hardkernel.com/blog-2/odroid-n2/](https://wiki.odroid.com/odroid-n2/odroid-n2))
+- [Official Shopside for N2/N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
+- [Instructions for Power Button from Odroid Wiki](https://wiki.odroid.com/odroid-n2/application_note/gpio/gpio_key_wakeup)
+- [Pinout from Odroid Wiki](https://wiki.odroid.com/odroid-n2/hardware/expansion_connectors)
