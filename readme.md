@@ -1,5 +1,8 @@
 
 # Odroid N2+ Woodcase
+
+![IMG_20220929_173057](https://user-images.githubusercontent.com/74838190/193081744-4a20eb48-53ef-48c4-8d56-eca315350ece.jpg)
+
 A small wooden case suitable for the Odroid N2+ from Hardkernel.
 There are many cases online that you can buy or 3D print for the N2+, but I didn't like any of these.
 I wanted a compact and stylish case for the Odroid so I could place it on my TV shelf.
@@ -16,6 +19,7 @@ Feel free to make your own little woodcase for your Odroid!
 ## How to build the Woodencase
 
 ###Things you need
+
 **tools**
 - Lasercutter
 - soldering iron
@@ -26,6 +30,9 @@ Feel free to make your own little woodcase for your Odroid!
 - Around 110x110mm plexiglass 2mm or another material
 - cable to connect the sensor
 - glue to attach the touch sensor
+
+### Step 1: Cut out the patterns
+![IMG_20220929_161642](https://user-images.githubusercontent.com/74838190/193081667-47efaff8-36b8-4cd6-a178-0c77bc36ff02.jpg)
 
 
 
