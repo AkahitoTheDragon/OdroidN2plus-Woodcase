@@ -15,17 +15,12 @@ Feel free to make your own little woodcase for your Odroid!
 
 ## Table of Contents
 1. [File Overview](#File-Overview)
-2. [Example2](#Things-you-need)
-3. [](#Step-1:-Cut-out-the-patterns)
-
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-## Example
-## Example2
-## Third Example
+2. [Things you need](#Things-you-need)
+3. [Step 1: Cut out the patterns](#Step-1:-Cut-out-the-patterns)
+4. [Step 2: Preparing the touch sensor](#File-Overview)
+5. [Step 3: Configure Touchbutton on Odroid](#Things-you-need)
+6. [Step 4: assemble the woodcase](#Step-1:-Cut-out-the-patterns)
+7. [Disassembling the case](#File-Overview)
 
 
 
@@ -122,6 +117,6 @@ The parts are measured very precisely, you need to use some force to push in the
 
 Here we go, the wooden case is finished!
 
-## disassembling the case
+## Disassembling the case
 The case is only sticked together and can theoretically be disassembled again, you have to be very careful because the parts are so tight together that something can quickly break off!
 Make sure you don't have to get to the RTC battery or the eMMC memory that often.
