@@ -66,7 +66,7 @@ connect the touch sensor as follows:
 |9    |GND    |
 |11   |Signal |
 
-***See also: [Odroid N2 Pinout](https://wiki.odroid.com/odroid-n2/hardware/expansion_connectors)
+***See also: [Odroid N2 Pinout](https://wiki.odroid.com/odroid-n2/hardware/expansion_connectors)***
 
 ![IMG_20220929_163810](https://user-images.githubusercontent.com/74838190/193089502-703b6e89-e271-4079-9a35-ce9dbf6e47dc.jpg)
 
@@ -76,7 +76,7 @@ In the end it should look like this:
 
 ### Step 3: Configure Touchbutton on Odroid
 
-I assume that you already have an operating system installed on your Odroid. I downloaded the self-installation image from [OdroidWiki](https://wiki.odroid.com/odroid-n2/os_images/android/android#tab__bit_android) and installed it on my eMMC.
+I assume that you already have an operating system installed on your Odroid. I downloaded the Android self-installation image from [OdroidWiki](https://wiki.odroid.com/odroid-n2/os_images/android/android#tab__bit_android) and installed it on my eMMC.
 
 [Instructions for Power Button from Odroid Wiki](https://wiki.odroid.com/odroid-n2/application_note/gpio/gpio_key_wakeup)
 
@@ -84,7 +84,7 @@ Unfortunately, the instructions from the OdroidWiki didn't work with Android, I 
 
 1. Open the eMMC Storage on your computer via USB Adapter
 1. Open env.ini
-2. search for `gpiopower="479"` exclude
+2. search for `gpiopower="479"` and exclude
 
 ### Step 4: assemble the woodcase
 
