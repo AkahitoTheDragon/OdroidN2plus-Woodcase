@@ -99,7 +99,7 @@ Unfortunately, the instructions from the OdroidWiki didn't work with Android, I 
 1. Open env.ini
 2. search for `gpiopower="479"` and exclude
 
-### Step 4: assemble the woodcase
+### assemble the woodcase
 
 Take one of the side parts and press the lid with force but carefully into the provided gaps.
 Do the same with the other side, be careful not to break off the side pieces and only apply pressure where the lid is.
