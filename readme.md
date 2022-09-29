@@ -65,6 +65,7 @@ connect the touch sensor as follows:
 |1    |3.3V   |
 |9    |GND    |
 |11   |Signal |
+
 ***See also: [Odroid N2 Pinout](https://wiki.odroid.com/odroid-n2/hardware/expansion_connectors)
 
 ![IMG_20220929_163810](https://user-images.githubusercontent.com/74838190/193089502-703b6e89-e271-4079-9a35-ce9dbf6e47dc.jpg)
