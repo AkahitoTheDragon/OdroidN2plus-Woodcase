@@ -13,7 +13,11 @@ Feel free to make your own little woodcase for your Odroid!
 
 **In theory, the case also fits the Odroid N2, but I can't test this! You are welcome to try out whether the case fits, as far as I know the circuit boards and the cooler are identical.**
 
-Inhaltsverzeichnis!!!!!!!!
+## Table of Contents
+1. [File Overview](#File Overview)
+2. [Example2](#Things you need)
+3. [](#Step 1: Cut out the patterns)
+
 
 
 ## File Overview
@@ -30,12 +34,13 @@ Inhaltsverzeichnis!!!!!!!!
 - Lasercutter
 - soldering iron
 - electric craft tools like Wire cutters, stripping pliers, etc
+- small file
 - 
 **material**
 
 - TTP223 capacitive touch sensor (available on Ebay, Amazon, etc.)
-- Around 120x120mm MDF 3mm or another wooden material
-- Around 110x110mm plexiglass 2mm or another material
+- Around 120x120mm MDF 3mm thickness
+- Around 110x110mm plexiglass 2mm thickness
 - cable to connect the sensor
 - glue to attach the touch sensor
 
