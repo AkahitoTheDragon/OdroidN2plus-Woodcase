@@ -125,6 +125,7 @@ The case is only sticked together and can theoretically be disassembled again, y
 Make sure you don't have to get to the RTC battery or the eMMC memory that often.
 
 ## Links and References
+
 - [OdroidWiki for N2/N2+](https://www.hardkernel.com/blog-2/odroid-n2/](https://wiki.odroid.com/odroid-n2/odroid-n2)
 - [Official Shopside for N2/N2+](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 - [Instructions for Power Button from Odroid Wiki](https://wiki.odroid.com/odroid-n2/application_note/gpio/gpio_key_wakeup)
